@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Jan 2021 21:50:01 at https://preview.themeforest.net/item/unicase-electronics-ecommerce-html-template/full_screen_preview/9226901?_ga=2.77776151.2085352289.1610052557-272375175.1610051473 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/unicase-electronics-ecommerce-html-template/full_screen_preview/9226901?_ga=2.77776151.2085352289.1610052557-272375175.1610051473 -O1 "C:\Users\Pc\Downloads\ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:50:03	Warning: 	Link https://preview.themeforest.net/item/unicase-electronics-ecommerce-html-template/full_screen_preview/9226901?_ga=2.77776151.2085352289.1610052557-272375175.1610051473 not scanned (follow robots meta tag)
+21:50:03	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/unicase-electronics-ecommerce-html-template/full_screen_preview/&quot;https://themeforest.net/item/unicase-electronics-store-woocommerce-the..." (from https://preview.themeforest.net/item/unicase-electronics-ecommerce-html-template/full_screen_preview/9226901?_ga=2.77776151.2085352289.1610052557-272375175.1610051473)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 3 links scanned, 1 files written (35312 bytes overall), 1 files updated [13638 bytes received at 6819 bytes/sec], 35312 bytes transferred using HTTP compression in 1 files, ratio 32%, 1.5 requests per connection
+(1 errors, 1 warnings, 0 messages)
